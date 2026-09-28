@@ -129,7 +129,7 @@ The dashboard contains four visualizations:
 ## Dashboard Preview
 
 <p align="center">
-  <img src="images/ecommerce_discount_dashboard.png" alt="E-Commerce Discount Analysis Dashboard" width="100%">
+  <img src="ecommerce_discount_dashboard.png" alt="E-Commerce Discount Analysis Dashboard" width="100%">
 </p>
 
 # 🔄 6. Project Workflow
